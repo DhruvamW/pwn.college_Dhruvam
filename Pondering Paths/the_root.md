@@ -14,9 +14,10 @@ pwn.college{Y0wcZcvIaKCA8gp-MbNWeK3WMKi.QX4cTO0wiN4EzNzEzW}
 ```
 
 ## What I learned
-Through this challenge I learnt about the root diectory in linux. I also learnt about Absolute Path referencing. I learnt that files in our computers are stored in directories and not randomly arranged.
+Through this challenge I learnt about the root diectory in linux. I learnt that files in our computers are stored in directories and not randomly arranged.
 
 ## References 
 https://www.youtube.com/watch?v=b67Jq6IZ3U8&list=PL-ymxv0nOtqqRAz1x90vxNbhmSkeYxHVC&t=1144s
+
 
 
